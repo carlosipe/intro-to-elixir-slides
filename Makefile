@@ -1,2 +1,2 @@
-serve:
-	python -m SimpleHTTPServer 8000
+s:
+	ruby -run -ehttpd . -p4000
